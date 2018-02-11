@@ -1,2 +1,7 @@
-# Programming 1 and 2
-Week 1 and 2 homework submission 
+# Programming Module
+
+### Week 1 and 2 files:
+- fibname.py
+
+### Week 3 files:
+- collatz.py
