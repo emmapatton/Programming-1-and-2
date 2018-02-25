@@ -32,11 +32,11 @@ print("Fibonacci number", x, "is", ans)
 # Week 1 Discussion Forum Post: 
 # My name is Emma. The first and last letters of my name (E + A = 5 + 1) give the number 6. The 6th Fibonacci number is 8. 
 
+
 # Week 2 Discussion Forum Post:
-'''
-My surname is Patton
-The first letter P is number 80
-The last letter n is number 110
-Fibonacci number 190 is 784637716923335095479473677900958302012794430558004314112
-ord() is a Python built in function. It returns the integer representing a Unicode character. 
-'''
+# My surname is Patton
+# The first letter P is number 80
+# The last letter n is number 110
+# Fibonacci number 190 is 784637716923335095479473677900958302012794430558004314112
+
+# ord() is a Python built in function. It returns the integer representing a Unicode character. 
