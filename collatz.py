@@ -1,4 +1,4 @@
-#Emma Patton 2018-02-11
+#Emma Patton, 2018-02-11
 #The Collatz Conjecture Program: https://en.wikipedia.org/wiki/Collatz_conjecture
 
 nString = input("Enter a number: ")
