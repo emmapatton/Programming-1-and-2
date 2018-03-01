@@ -6,20 +6,20 @@
 # What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
 
 keeplooping = True
-currentLCM = 1
+currentLCM = 2520
 
 while keeplooping:
-    currentLCM = currentLCM + 1
+    currentLCM = currentLCM + 2520
 
     howManyEven = 0
 
-    for i in range(1, 21):
+    for i in range(11, 21):
 
         if(currentLCM % i) == 0:
             howManyEven = howManyEven + 1
 
 
-    if howManyEven == 20:
+    if howManyEven == 10:
         keeplooping = False
         
 
