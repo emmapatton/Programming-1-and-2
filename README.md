@@ -2,6 +2,7 @@
 
 ### Week 1 and 2 files:
 - fibname.py
+- Displaying Fibonacci numbers using name  
 
 
 ### Week 3 files:
