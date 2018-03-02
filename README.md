@@ -1,6 +1,6 @@
 # Programming Module
 
-### Week 1 & 2 - Topics 1 and 2 Homework: 
+### Weeks 1 & 2 - Topics 1 and 2 Homework: 
 - fibname.py
 - Displaying Fibonacci numbers using name  
 
