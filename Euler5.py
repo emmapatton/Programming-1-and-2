@@ -8,6 +8,8 @@
 keeplooping = True
 currentLCM = 2520
 
+# currentLCM was changed from 1 to 2520 following further reading on: https://www.youtube.com/watch?v=EMTcsNMFS_g to reduce the number of checks 
+
 while keeplooping:
     currentLCM = currentLCM + 2520
 
