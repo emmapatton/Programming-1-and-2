@@ -7,6 +7,8 @@ columnwidth = '{:^12}  {:^12}  {:^12}  {:^12}'
 
 print(columnwidth.format(*heading))
 
+# Column's formatted to have even spacing following further reading on: https://pyformat.info/ 
+
 with open("data/iris.csv") as f:
     for line in f:
         irisnum = line.split(',')[:4]
