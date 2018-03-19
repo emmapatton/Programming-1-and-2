@@ -10,8 +10,9 @@ def factorial(x):
         numx = numx * i
     return numx
 
-numbers = [5, 7, 10]
+num = input("Please enter a positive number:")
 
-for num in numbers:
-    print(f"The factorial of the value {num} is:", factorial(num))
+num = int(num)
+
+print(f"The factorial of the value {num} is:", factorial(num))
 
