@@ -15,4 +15,8 @@
 
 ### Week 6 - Topic 5 Homework:
 - irisdata.py
-- Formatting Iris Data Set 
+- Formatting Iris Data Set
+
+### Week 7 - Topic 6 Homework:
+- factorial.py
+- Using a function to find the factorial of a number 
