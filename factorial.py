@@ -10,6 +10,8 @@ def factorial(x):
         numx = numx * i
     return numx
 
-print("The factorial of the value 5 is:", factorial(5))
-print("The factorial of the value 7 is:", factorial(7))
-print("The factorial of the value 10 is:", factorial(10))
+numbers = [5, 7, 10]
+
+for num in numbers:
+    print(f"The factorial of the value {num} is:", factorial(num))
+
