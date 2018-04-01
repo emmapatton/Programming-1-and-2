@@ -18,7 +18,7 @@ while n != 1:
     count = count + 1
 
 
-print('Program finished in', count, 'steps')
+print('Program finished in', count, 'iterations')
 
 # Number of iterations printed following reading from: https://www.pythonlearn.com/html-008/cfbook006.html 
     
