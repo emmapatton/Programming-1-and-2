@@ -25,6 +25,6 @@
 - factorial.py
 - Using a function to find the factorial of a number 
 
-### Practice and Revision Folder###
+### Practice and Revision Folder
 - **Description** This folder contains a number of short python files which are related to learning and practice throughout the programming and scripting module. 
 - **File Names:** fib.py, fizzbuzz.py, format.py, functions.py, guessing.py, if.py, listloop.py, lists.py, loop.py, loopsum.py, openfile.py, range.py, smallmult.py, sum35.py, test.py, test2.py, tuesday.py and tutorial.py. 
