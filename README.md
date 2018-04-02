@@ -23,7 +23,7 @@ Python is the programming language covered in this module. Visual Studio Code wa
 - **File Name:** Euler5.py
 
 ### Week 6 - Problem Set 5:
-- **Description:** This program is based on the Iris Data Set [5]. The Python script reads the Iris data set and prints the four numerical values on each row in a clear and easily read format, with a header for each of the four columns; petal length, petal width, sepal length and sepal width.  
+- **Description:** This program is based on the **Iris Data Set** [5]. The Python script reads the Iris data set and prints the four numerical values on each row in a clear and easily read format, with a header for each of the four columns; petal length, petal width, sepal length and sepal width.  
 
 - **File Name:** irisdata.py
 
@@ -33,7 +33,7 @@ Python is the programming language covered in this module. Visual Studio Code wa
   - This python script calculates the factorial of 5, 7, and 10.
 - **File Name:** factorial.py
 
-### Practice and Revision Folder
+### Practice and Revision Folder:
 - **Description** This folder contains a number of short python scripts which were completed to aid my learning throughout the programming and scripting module. 
 - **File Names:** fib.py, fizzbuzz.py, format.py, functions.py, guessing.py, if.py, listloop.py, lists.py, loop.py, loopsum.py, openfile.py, range.py, smallmult.py, sum35.py, test.py, test2.py, tuesday.py and tutorial.py. 
 
