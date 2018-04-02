@@ -13,7 +13,7 @@ currentLCM = 2520
 while keeplooping:
     currentLCM = currentLCM + 2520
 
-    howManyEven = 0
+    howManyEven = 0 #Must be an even number to be counted (divisible with no remainder)
 
     for i in range(11, 21):
 
@@ -21,8 +21,8 @@ while keeplooping:
             howManyEven = howManyEven + 1
 
 
-    if howManyEven == 10:
+    if howManyEven == 10: #If all 10 numbers are even 
         keeplooping = False
         
 
-print("Lowest Common Multiple is:", currentLCM)
+print("The Lowest Common Multiple of numbers from 1 to 20 is:", currentLCM)
