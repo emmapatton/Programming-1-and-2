@@ -18,8 +18,10 @@ Python is the programming language covered in this module therefore all problem 
 - **File Name:** collatz.py
 
 ### Week 5 - Problem Set 4:
-- **Description:** This problem set provides a solution to **Project Euler Problem 5**. Project Euler [3] which is named after Leonhard Euler is a website containing a series of challenging computer programming problems. Problem 5 [4]
-- Project Euler - Problem 5
+- **Description:** This problem set provides a solution to **Project Euler Problem 5**. Project Euler [3] which is named after Leonhard Euler is a website containing a series of challenging computer programming problems. 
+  - Problem 5 [4] states: *2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?*
+  
+- **File Name:** Euler5.py
 
 ### Week 6 - Problem Set 5:
 - irisdata.py
@@ -34,8 +36,8 @@ Python is the programming language covered in this module therefore all problem 
 - **File Names:** fib.py, fizzbuzz.py, format.py, functions.py, guessing.py, if.py, listloop.py, lists.py, loop.py, loopsum.py, openfile.py, range.py, smallmult.py, sum35.py, test.py, test2.py, tuesday.py and tutorial.py. 
 
 ## References 
-- [1] Mathsisfun.com. 2016. Fibonacci Sequence. [ONLINE] Available at: https://www.mathsisfun.com/numbers/fibonacci-sequence.html. [Accessed 2 April 2018].
-- [2] Wikipedia.org. 2018. Collatz Conjecture. [ONLINE] Available at: https://en.wikipedia.org/wiki/Collatz_conjecture. [Accessed 2 April 2018].
-- [3]
-- [4] Porjecteuler.net. n.d. Project Euler Problem 5. [ONLINE] Available at: https://projecteuler.net/problem=5. [Accessed 2 April 2018]
-
+- [1] Mathsisfun.com. 2016. Fibonacci Sequence. [ONLINE] Available at: https://www.mathsisfun.com/numbers/fibonacci-sequence.html. [Accessed 11 February 2018].
+- [2] Wikipedia.org. 2018. Collatz Conjecture. [ONLINE] Available at: https://en.wikipedia.org/wiki/Collatz_conjecture. [Accessed 25 February 2018].
+- [3] Wikipedia.org. 2018. Project Euler. [ONLINE] Available at: https://en.wikipedia.org/wiki/Project_Euler. [Accessed 1 March 2018]
+- [4] Porjecteuler.net. n.d. Project Euler Problem 5. [ONLINE] Available at: https://projecteuler.net/problem=5. [Accessed 1 March 2018]
+- 
