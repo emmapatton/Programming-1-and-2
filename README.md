@@ -1,14 +1,13 @@
 # Programming and Scripting Module
-Programming and Scripting Module Problem Sets for the online Higher Diploma in Data Analytics with GMIT. 
-Python is the programming language covered in this module therefore all problem sets have been written in Python.
-
+Programming and Scripting Module Problem Sets for the online Higher Diploma in Data Analytics with the Galway Mayo Institute of Technology (GMIT). 
+Python is the programming language covered in this module. Visual Studio Code was the editor used to write the following problem sets. 
 
 ## Problem Sets 
 
 ### Weeks 1 & 2 - Problem Set 1 and 2: 
-- **Problem 1 Description:** This program, written by @Ian McLoughlin, calculates the *nth* **fibonacci** [1] number where *n* is the sum of the first and last letters of my first name, as numbers. Take A as the number 1, B as 2, C as 3, and so on.
+- **Problem 1 Description:** This program, written by Ian McLoughlin, calculates the *nth* **fibonacci** [1] number where *n* is the sum of the first and last letters of my first name *(Emma)*, as numbers. It specifies that A is 1, B is 2, C is 3 etc. Please refer to the file fibname.py for the result in comments. 
 
-- **Problem 2 Description:** This program, written by @Ian McLoughlin, displays **fibonacci** numbers using peoples names. In this example, my surname *Patton* is used.
+- **Problem 2 Description:** This program, written by Ian McLoughlin, displays **fibonacci** numbers using peoples names. In this example, my surname *Patton* is used. Please refer to the file fibname.py for the result in comments. 
 
 - **File Name:** fibname.py
 
@@ -24,20 +23,24 @@ Python is the programming language covered in this module therefore all problem 
 - **File Name:** Euler5.py
 
 ### Week 6 - Problem Set 5:
-- irisdata.py
-- Formatting Iris Data Set
+- **Description:** This program is based on the Iris Data Set [5]. The Python script reads the Iris data set and prints the four numerical values on each row in a clear and easily read format, with a header for each of the four columns; petal length, petal width, sepal length and sepal width.  
+
+- **File Name:** irisdata.py
 
 ### Week 7 - Problem Set 6:
-- factorial.py
-- Using a function to find the factorial of a number 
+- **Description:** This problem set uses the function **factorial()** [6] It takes a single positive integer and returns its factorial.
+  - The factorial of a number is that number multiplied by all of the positive numbers less than it, for exmaple the factorial of 4 is 4x3x2x1 which is equal to 24. 
+  - This python script calculates the factorial of 5, 7, and 10.
+- **File Name:** factorial.py
 
 ### Practice and Revision Folder
-- **Description** This folder contains a number of short python files which are related to learning and practice throughout the programming and scripting module. 
+- **Description** This folder contains a number of short python scripts which were completed to aid my learning throughout the programming and scripting module. 
 - **File Names:** fib.py, fizzbuzz.py, format.py, functions.py, guessing.py, if.py, listloop.py, lists.py, loop.py, loopsum.py, openfile.py, range.py, smallmult.py, sum35.py, test.py, test2.py, tuesday.py and tutorial.py. 
 
 ## References 
-- [1] Mathsisfun.com. 2016. Fibonacci Sequence. [ONLINE] Available at: https://www.mathsisfun.com/numbers/fibonacci-sequence.html. [Accessed 11 February 2018].
-- [2] Wikipedia.org. 2018. Collatz Conjecture. [ONLINE] Available at: https://en.wikipedia.org/wiki/Collatz_conjecture. [Accessed 25 February 2018].
-- [3] Wikipedia.org. 2018. Project Euler. [ONLINE] Available at: https://en.wikipedia.org/wiki/Project_Euler. [Accessed 1 March 2018]
-- [4] Porjecteuler.net. n.d. Project Euler Problem 5. [ONLINE] Available at: https://projecteuler.net/problem=5. [Accessed 1 March 2018]
-- 
+- [1] Mathsisfun.com. 2016. *Fibonacci Sequence.* [ONLINE] Available at: https://www.mathsisfun.com/numbers/fibonacci-sequence.html. [Accessed 11 February 2018].
+- [2] Wikipedia.org. 2018. *Collatz Conjecture.* [ONLINE] Available at: https://en.wikipedia.org/wiki/Collatz_conjecture. [Accessed 25 February 2018].
+- [3] Wikipedia.org. 2018. *Project Euler.* [ONLINE] Available at: https://en.wikipedia.org/wiki/Project_Euler. [Accessed 1 March 2018]
+- [4] Porjecteuler.net. n.d. *Project Euler Problem 5.* [ONLINE] Available at: https://projecteuler.net/problem=5. [Accessed 1 March 2018]
+- [5] Dheeru, Dua and Karra Taniskidou, Efi. 2017. *(UCI) Machine Learning Repository: Iris Data Set.* [ONLINE] Available at: https://archive.ics.uci.edu/ml/datasets/iris. [Accessed  2 March 2018].
+- [6] Mathsisfun.com. 2016. *Factorial!* [ONLINE] Available at: https://www.mathsisfun.com/numbers/factorial.html. [Accessed 19 March 2018] 
