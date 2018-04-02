@@ -6,9 +6,9 @@ Python is the programming language covered in this module therefore all problem 
 ## Problem Sets 
 
 ### Weeks 1 & 2 - Problem Set 1 and 2: 
-- **Problem 1 Description:** This program, written by Ian McLoughlin, calculates the *nth* **fibonacci** [1] number where *n* is the sum of the first and last letters of my first name, as numbers. Take A as the number 1, B as 2, C as 3, and so on.
+- **Problem 1 Description:** This program, written by @Ian McLoughlin, calculates the *nth* **fibonacci** [1] number where *n* is the sum of the first and last letters of my first name, as numbers. Take A as the number 1, B as 2, C as 3, and so on.
 
-- **Problem 2 Description:** This program, written by Ian McLoughlin, displays **fibonacci** numbers using peoples names. In this example, my surname *Patton* is used.
+- **Problem 2 Description:** This program, written by @Ian McLoughlin, displays **fibonacci** numbers using peoples names. In this example, my surname *Patton* is used.
 
 - **File Name:** fibname.py
 
