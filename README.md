@@ -30,12 +30,13 @@ Python is the programming language covered in this module. Visual Studio Code wa
 ### Week 7 - Problem Set 6:
 - **Description:** This problem set uses the function **factorial()** [6] It takes a single positive integer and returns its factorial.
   - The factorial of a number is that number multiplied by all of the positive numbers less than it, for exmaple the factorial of 4 is 4x3x2x1 which is equal to 24. 
-  - This python script calculates the factorial of 5, 7, and 10.
-- **File Name:** factorial.py
+  - factorial.py is a python script that calculates the factorial of 5, 7, and 10.
+  - Additional practice: inputfactorial.py is a python script that requests a positive whole number and gives its factorial as an output. 
+- **File Names:** factorial.py, inputfactorial.py
 
 ### Practice and Revision Folder:
 - **Description** This folder contains a number of short python scripts which were completed to aid my learning throughout the programming and scripting module. 
-- **File Names:** fib.py, fizzbuzz.py, format.py, functions.py, guessing.py, if.py, listloop.py, lists.py, loop.py, loopsum.py, openfile.py, range.py, smallmult.py, sum35.py, test.py, test2.py, tuesday.py and tutorial.py. 
+- **File Names:** fib.py, fizzbuzz.py, format.py, functions.py, guessing.py, if.py, listloop.py, lists.py, loop.py, loopsum.py, openfile.py, range.py, smallmult.py, sum35.py, test.py, test2.py, tuesday.py, tutorial.py. 
 
 ## References 
 - [1] Mathsisfun.com. 2016. *Fibonacci Sequence.* [ONLINE] Available at: https://www.mathsisfun.com/numbers/fibonacci-sequence.html. [Accessed 11 February 2018].
